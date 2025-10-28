@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/geunilpark/Private/Algorithm/Studies/first_cpp/a'
+relocations:     []
+...

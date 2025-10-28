@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/geunilpark/Private/Algorithm/Studies/first_cpp",
+      "program": "/Users/geunilpark/Private/Algorithm/Studies/first_cpp/build/Debug/outDebug"
+    }
+  ]
+}
