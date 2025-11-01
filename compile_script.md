@@ -1,4 +1,4 @@
-g++ -std=c++17 -Wall int.cpp -o int.out
+g++ -std=c++17 -Wall float.cpp -o float.out
 ./test.out
 
 or
